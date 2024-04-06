@@ -6,15 +6,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link rel="stylesheet" href="5.css">
-  <script src="5.js" defer></script>
+  <script src="main.js" type="module" defer></script>
 </head>
 
 <body>
   <h1>Restaurants</h1>
+  <label for="sodexho">Show only Sodexho restaurants:</label>
+  <input type="radio" id="sodexho" name="filter">
+  <label for="compass">Show only Compass restaurants:</label>
+  <input type="radio" id="compass" name="filter">
   <table>
     <tr>
       <th>Name</th>
-      <th>Address</th>
+      <th>Company</th>
     </tr>
     <!-- add restaurants here -->
   </table>

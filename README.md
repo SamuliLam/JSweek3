@@ -1,3 +1,2 @@
-# JStemplate
-## Week 2, recap 5, last exercise
-https://users.metropolia.fi/~samullam/week2/recap5/exercise5/
+## Week 3, all tasks done
+https://users.metropolia.fi/~samullam/week3/
